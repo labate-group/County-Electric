@@ -1,0 +1,81 @@
+<script defer type="application/ld+json">
+{
+        "@context": "https://schema.org",
+        "@graph": [
+{
+  "@context": "https://schema.org",
+  "@type": "HomeAndConstructionBusiness",
+  "@id": "/#HomeAndConstructionBusiness",
+  "url": "https://countyelectric.org",
+  "name": "County Electric",
+  "legalName": "County Electric Construction Inc.",
+  "slogan": "",
+  "founder": {
+    "@type": "Person",
+    "@id": "/#person",
+    "url": "",
+    "name": ""
+  },
+  "foundingDate": "2022-03-14T16:42:53.080-0400",
+  "openingHours": "",
+  "knowsLanguage": "English",
+  "inLanguage": "English",
+  "about": {
+    "@type": "AboutPage",
+    "@id": "https://countyelectric.org/about/#aboutpage",
+    "url": "https://countyelectric.org"
+  },
+  "knowsAbout": "[object Object]",
+  "mentions": "[object Object]",
+  "keywords": "[object Object]",
+  "description": "",
+  "copyrightHolder": "",
+  "copyrightNotice": "All Rights Reserved.",
+  "copyrightYear": "2022",
+  "mainEntityOfPage": [
+    {
+      "@type": "WebSite",
+      "@id": "/#website",
+      "url": ""
+    },
+    {
+      "@type": "AboutPage",
+      "@id": "/#aboutpage",
+      "url": ""
+    }
+  ],
+  "subjectOf": [
+    {
+      "@type": "WebSite",
+      "@id": "/#website",
+      "url": ""
+    },
+    {
+      "@type": "AboutPage",
+      "@id": "/#aboutpage",
+      "url": ""
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "@id": "/#offercatalog",
+    "url": ""
+  },
+  "numberOfEmployees": "30",
+  "logo": "[object Object]",
+  "image": "",
+  "aggregateRating": "[object Object]",
+  "address": "[object Object]",
+  "geo": {
+    "@type": "@GeoCoordinates",
+    "@id": "/#geocoordinates",
+    "latitude": "",
+    "longitude": ""
+  },
+  "hasMap": "",
+  "sameAs": ",,,,,,,,"
+}
+                
+        ]
+}
+</script>
