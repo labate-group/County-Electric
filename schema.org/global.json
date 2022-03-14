@@ -1,0 +1,59 @@
+<script defer type="application/ld+json">
+{
+        "@context": "https://schema.org",
+        "@graph": [
+                {
+                        "@context": "https://schema.org",
+                        "@type": "HomeAndConstructionBusiness",
+                        "@id": "https://countyelectric.org/#HomeAndConstructionBusiness",
+                        "url": "https://countyelectric.org",
+                        "legalName": "County Electric Construction Inc.",
+                        "slogan": "",
+                        "founder": {
+                                "@type": "Person",
+                                "@id": "/#person",
+                                "url": "",
+                                "name": ""
+                        },
+                        "foundingDate": "2022-03-14T16:42:53.080-0400",
+                        "openingHours": "",
+                        "knowsLanguage": "English",
+                        "about": {
+                                "@type": "AboutPage",
+                                "@id": "https://countyelectric.org/about/#aboutpage",
+                                "url": "https://countyelectric.org"
+                        },
+                        "knowsAbout": [],
+                        "keywords": [],
+                        "description": "",
+                        "copyrightHolder": "",
+                        "copyrightNotice": "All Rights Reserved.",
+                        "copyrightYear": "2022",
+                        "hasOfferCatalog": {
+                                "@type": "OfferCatalog",
+                                "@id": "/#offercatalog",
+                                "url": ""
+                        },
+                        "numberOfEmployees": "30",
+                        "logo": [],
+                        "image": "",
+                        "aggregateRating": ,
+                        "address": {
+                              "type": "PostalAddress",
+                        "geo": {
+                              "@type": "@GeoCoordinates",
+                              "@id": "/#geocoordinates",
+                              "latitude": "",
+                              "longitude": ""
+                        },
+                        "hasMap": "",
+                        "sameAs": []
+                },
+                {
+                        "@type": "WebSite",
+                        "@id": "https://countyelectric.org/#website",
+                        "url": "https://countyelectric.org"
+                }
+        ]
+}
+</script>
