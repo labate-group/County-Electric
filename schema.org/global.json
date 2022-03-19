@@ -1,95 +1,95 @@
 <!-- Custom Schema Markup by the Labate Group - https://labate.io -->
 <script defer type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@graph": [
-                {
-                        "@type": "HomeAndConstructionBusiness",
-                        "@id": "https://www.countyelectric.org/#HomeAndConstructionBusiness",
-                        "url": "https://www.countyelectric.org",
-                        "name": "County Electric"
-                        "legalName": "County Electric Construction Inc.",
-                        "contactPoint": {
-                                "@type": "ContactPoint",
-                                "telephone": "203-367-7500"
-                        },
-                        "founder": {
-                                "@type": "Person",
-                                "name": "Albert Cortina Sr.",
-                                "description": "On March 21st 2015 County Electric lost it’s founder Albert Cortina Sr. It was with his determination and entrepreneurial spirit he started County Electric Construction Inc. in 1963 and after 52 years of devoting his life to hard work, he built the company to what it is today. He was very proud of his family and was happy to have the fruits of his labor lovingly passed down to the second generation of owners, Al Jr. and Michael Cortina. Over the years he developed many relationships and contacts and was well-respected in his field. He was also a member of the Fairfield County Electrical Association. He will be missed by all who knew him."
-                        },
-                        "foundingYear": "1963",
-                        "knowsLanguage": "English",
-                        "about": {
-                                "@type": "AboutPage",
-                                "@id": "https://www.countyelectric.org/about/#aboutpage",
-                                "url": "https://www.countyelectric.org"
-                        },
-                        "memberOf": {
-                                "@type": "Organization",
-                                "@id": "https://brbc.org/#organiztion",
-                                "url": "https://brbc.org/",
-                                "name": "Bridgeport Regional Business Council"
-                        },
-                        "description": "County Electrical Contractors Inc. started humbly in 1963 when Albert M Cortina Sr. decided to go on his own to service all types of electrical needs. Operating from his home initially, Al worked tirelessly to build CECI and spend time with his growing family. As the workload grew so did CECI adding more employees to accommodate all types of electrical services from Residential to Commercial to industrial installations. The company provided electrical services but focused on building trusted relationships with each customer and word of mouth business referrals. By the mid 70’s the company moved to a small building headquartered in Bridgeport. The move allowed CECI to expand the staff with a growing fleet of talented Electricians, engineers and project managers. As the staff grew so did the facility as the initially small building went through serveral transformations to accommodate the higher demands of it’s customers and new technology. As the business continued to grow Al Sr. brought on his two sons… Albert A Cortina Jr. serving as President and Michael A. Cortina serving as Vice President. County Electrical Contractors Inc. is enthusiastic and growing in it’s 2nd generation as it did in it’s inception. In 2008 the company moved to a brand new 13000 sq. ft. facility in Bridgeport. As a 2nd generation business CECI is proud to celebrate it’s 50th year in business.",
-                        "copyrightHolder": "County Electric Construction Inc.",
-                        "copyrightNotice": "All Rights Reserved.",
-                        "copyrightYear": "2022",
-                        "hasOfferCatalog": {
-                                "@type": "OfferCatalog",
-                                "@id": "https://www.countyelectric.org/services/#offercatalog",
-                                "url": "https://www.countyelectric.org/services"
-                        },
-                        "numberOfEmployees": "30",
-                        "image": {
-                                "@type": "ImageObject",
-                                "@id": "https://www.countyelectric.org/#logo"
-                        },
-                        "logo": {
-                                "@type": "ImageObject",,
-                                "@id": "https://www.countyelectric.com/#logo",
-                                "name": "County Electric Logo",
-                                "caption": "County Electric Logo",
-                                "url": "https://uploads-ssl.webflow.com/622fa7e7f563138da06751e0/6233a80626ab4da96a219dd2_County%20Electric.svg",
-                                "contentUrl": "https://uploads-ssl.webflow.com/622fa7e7f563138da06751e0/6233a80626ab4da96a219dd2_County%20Electric.svg"
-                        },
-                        "address": {
-                                "@type": "PostalAddress",
-                                "@id": "https://www.countyelectric.org/#postaladdress",
-                                "streetAddress": "102 Central Ave",
-                                "addressLocality": "Bridgeport",
-                                "addressRegion": "CT",
-                                "postalCode": "06607"
-                                "addressCountry": "USA",
-                                "telephone": "203-367-7500"
-                        },                        
-                        "geo": {
-                              "@type": "@GeoCoordinates",
-                              "@id": "/#geocoordinates",
-                              "latitude": "41.1689262",
-                              "longitude": "-73.1669243"
-                        },
-                        "hasMap": "https://www.google.com/maps/place/County+Electric+Construction/@41.1690136,-73.1687615,17z/data=!3m1!4b1!4m5!3m4!1s0x89e80dc2510114c9:0x772740b806b2ee6a!8m2!3d41.1689708!4d-73.1667721",
-                },
-                {
-                        "@type": "WebSite",
-                        "@id": "https://www.countyelectric.org/#website",
-                        "url": "https://www.countyelectric.org"
-                        "name": "County Electric | Commercial Electric Company | Bridgeport, CT",
-                        "hasPart": [
-                                {       
-                                        "@type": "AboutPage"
-                                        "@id": "https://www.countyelectric.org/about/#aboutpage",
-                                        "url": "https://www.countyelectric.org/about
-                                },
-                                {       
-                                        "@type": "ContactPage"
-                                        "@id": "https://www.countyelectric.org/contact/#contactpage",
-                                        "url": "https://www.countyelectric.org/contact
-                                }
-                        ]
-                }
-        ]
+	"@context": "https://schema.org",
+	"@graph": [
+		{
+			"@type": "HomeAndConstructionBusiness",
+			"@id": "https://www.countyelectric.org/#HomeAndConstructionBusiness",
+			"url": "https://www.countyelectric.org",
+			"name": "County Electric",
+			"legalName": "County Electric Construction Inc.",
+			"contactPoint": {
+				"@type": "ContactPoint",
+				"telephone": "203-367-7500"
+			},
+			"founder": {
+				"@type": "Person",
+				"name": "Albert Cortina Sr.",
+				"description": "On March 21st 2015 County Electric lost it’s founder Albert Cortina Sr. It was with his determination and entrepreneurial spirit he started County Electric Construction Inc. in 1963 and after 52 years of devoting his life to hard work, he built the company to what it is today. He was very proud of his family and was happy to have the fruits of his labor lovingly passed down to the second generation of owners, Al Jr. and Michael Cortina. Over the years he developed many relationships and contacts and was well-respected in his field. He was also a member of the Fairfield County Electrical Association. He will be missed by all who knew him."
+			},
+			"foundingDate": "1963",
+			"knowsLanguage": "English",
+			"about": {
+				"@type": "AboutPage",
+				"@id": "https://www.countyelectric.org/about/#aboutpage",
+				"url": "https://www.countyelectric.org"
+			},
+			"memberOf": {
+				"@type": "Organization",
+				"@id": "https://brbc.org/#organiztion",
+				"url": "https://brbc.org/",
+				"name": "Bridgeport Regional Business Council"
+			},
+			"description": "County Electrical Contractors Inc. started humbly in 1963 when Albert M Cortina Sr. decided to go on his own to service all types of electrical needs. Operating from his home initially, Al worked tirelessly to build CECI and spend time with his growing family. As the workload grew so did CECI adding more employees to accommodate all types of electrical services from Residential to Commercial to industrial installations. The company provided electrical services but focused on building trusted relationships with each customer and word of mouth business referrals. By the mid 70’s the company moved to a small building headquartered in Bridgeport. The move allowed CECI to expand the staff with a growing fleet of talented Electricians, engineers and project managers. As the staff grew so did the facility as the initially small building went through serveral transformations to accommodate the higher demands of it’s customers and new technology. As the business continued to grow Al Sr. brought on his two sons… Albert A Cortina Jr. serving as President and Michael A. Cortina serving as Vice President. County Electrical Contractors Inc. is enthusiastic and growing in it’s 2nd generation as it did in it’s inception. In 2008 the company moved to a brand new 13000 sq. ft. facility in Bridgeport. As a 2nd generation business CECI is proud to celebrate it’s 50th year in business.",
+			"hasOfferCatalog": {
+				"@type": "OfferCatalog",
+				"@id": "https://www.countyelectric.org/services/#offercatalog",
+				"url": "https://www.countyelectric.org/services"
+			},
+			"numberOfEmployees": "30",
+			"image": {
+				"@type": "ImageObject",
+				"@id": "https://www.countyelectric.org/#logo"
+			},
+			"logo": {
+				"@type": "ImageObject",
+				"@id": "https://www.countyelectric.com/#logo",
+				"name": "County Electric Logo",
+				"caption": "County Electric Logo",
+				"url": "https://uploads-ssl.webflow.com/622fa7e7f563138da06751e0/6233a80626ab4da96a219dd2_County%20Electric.svg",
+				"contentUrl": "https://uploads-ssl.webflow.com/622fa7e7f563138da06751e0/6233a80626ab4da96a219dd2_County%20Electric.svg"
+			},
+			"address": {
+				"@type": "PostalAddress",
+				"@id": "https://www.countyelectric.org/#postaladdress",
+				"streetAddress": "102 Central Ave",
+				"addressLocality": "Bridgeport",
+				"addressRegion": "CT",
+				"postalCode": "06607",
+				"addressCountry": "USA",
+				"telephone": "203-367-7500"
+			},
+			"geo": {
+				"@type": "@GeoCoordinates",
+				"@id": "/#geocoordinates",
+				"latitude": "41.1689262",
+				"longitude": "-73.1669243"
+			},
+			"hasMap": "https://www.google.com/maps/place/County+Electric+Construction/@41.1690136,-73.1687615,17z/data=!3m1!4b1!4m5!3m4!1s0x89e80dc2510114c9:0x772740b806b2ee6a!8m2!3d41.1689708!4d-73.1667721"
+		},
+		{
+			"@type": "WebSite",
+			"@id": "https://www.countyelectric.org/#website",
+			"url": "https://www.countyelectric.org",
+			"name": "County Electric | Commercial Electric Company | Bridgeport, CT",
+			"copyrightHolder": "County Electric Construction Inc.",
+			"copyrightNotice": "All Rights Reserved.",
+			"copyrightYear": "2022",
+			"hasPart": [
+				{
+					"@type": "AboutPage",
+					"@id": "https://www.countyelectric.org/about/#aboutpage",
+					"url": "https://www.countyelectric.org/about"
+				},
+				{
+					"@type": "ContactPage",
+					"@id": "https://www.countyelectric.org/contact/#contactpage",
+					"url": "https://www.countyelectric.org/contact"
+				}
+			]
+		}
+	]
 }
 </script>
 <!-- / Custom Schema Markup by the Labate Group - https://labate.io -->
