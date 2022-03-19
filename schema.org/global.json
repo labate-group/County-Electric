@@ -9,6 +9,12 @@
 			"url": "https://www.countyelectric.org",
 			"name": "County Electric",
 			"legalName": "County Electric Construction Inc.",
+			"brand": {
+				"@type": "Brand",
+				"@id": "https://www.countyelectric.org/#brand",
+				"name": "County Electric",
+				"url": "https://www.countyelectric.org"
+			},
 			"contactPoint": {
 				"@type": "ContactPoint",
 				"telephone": "203-367-7500"
