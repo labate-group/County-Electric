@@ -7,7 +7,12 @@
                         "@type": "HomeAndConstructionBusiness",
                         "@id": "https://www.countyelectric.org/#HomeAndConstructionBusiness",
                         "url": "https://www.countyelectric.org",
+                        "name": "County Electric"
                         "legalName": "County Electric Construction Inc.",
+                        "contactPoint": {
+                                "@type": "ContactPoint",
+                                "telephone": "203-367-7500"
+                        },
                         "slogan": "",
                         "founder": {
                                 "@type": "Person",
@@ -21,6 +26,12 @@
                                 "@type": "AboutPage",
                                 "@id": "https://www.countyelectric.org/about/#aboutpage",
                                 "url": "https://www.countyelectric.org"
+                        },
+                        "memberOf": {
+                                "@type": "Organization",
+                                "@id": "https://brbc.org/#organiztion",
+                                "url": "https://brbc.org/,
+                                "name": "Bridgeport Regional Business Council"
                         },
                         "knowsAbout": [],
                         "keywords": [],
