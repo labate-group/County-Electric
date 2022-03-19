@@ -20,11 +20,6 @@
 			},
 			"foundingDate": "1963",
 			"knowsLanguage": "English",
-			"about": {
-				"@type": "AboutPage",
-				"@id": "https://www.countyelectric.org/about/#aboutpage",
-				"url": "https://www.countyelectric.org"
-			},
 			"memberOf": {
 				"@type": "Organization",
 				"@id": "https://brbc.org/#organiztion",
@@ -61,7 +56,7 @@
 				"telephone": "203-367-7500"
 			},
 			"geo": {
-				"@type": "@GeoCoordinates",
+				"@type": "GeoCoordinates",
 				"@id": "/#geocoordinates",
 				"latitude": "41.1689262",
 				"longitude": "-73.1669243"
