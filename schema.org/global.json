@@ -72,31 +72,33 @@
 			"@id": "https://www.countyelectric.org/#website",
 			"name": "County Electric | Commerical Construction Company - Bridgeport, CT",
 			"url": "https://www.countyelectric.org",
-			"brand": {
-				"@type": "Brand",
-				"@id": "https://www.countyelectric.org/#brand"
-			},
-			"logo": {
+			"image": {
 				"@type": "ImageObject",
 				"@id": "https://www.countyelectric.com/#logo"
 			},
 			"hasPart": [
-				{"@id": "https://www.countyelectric.org/#webpage"},
-				{"@id": "https://www.countyelectric.org/about/#aboutpage"},
-				{"@id": "https://www.countyelectric.org/team/#webpage"},
-				{"@id": "https://www.countyelectric.org/services/#webpage"},
-				{"@id": "https://www.countyelectric.org/portfolio/#webpage"},
-				{"@id": "https://www.countyelectric.org/testimonials/#webpage"},
-				{"@id": "https://www.countyelectric.org/contact/#contactpage"}
+				{
+					"@id": "https://www.countyelectric.org/#webpage"
+				},
+				{
+					"@id": "https://www.countyelectric.org/about/#aboutpage"
+				},
+				{
+					"@id": "https://www.countyelectric.org/team/#webpage"
+				},
+				{
+					"@id": "https://www.countyelectric.org/services/#webpage"
+				},
+				{
+					"@id": "https://www.countyelectric.org/portfolio/#webpage"
+				},
+				{
+					"@id": "https://www.countyelectric.org/testimonials/#webpage"
+				},
+				{
+					"@id": "https://www.countyelectric.org/contact/#contactpage"
+				}
 			],
-			"address": {
-				"@type": "PostalAddress",
-				"@id": "https://www.countyelectric.org/#postaladdress",
-			},
-			"geo": {
-				"@type": "GeoCoordinates",
-				"@id": "https://www.countyelectric.org/#geocoordinates"
-			},
 			"copyrightHolder": "County Electric Construction Inc.",
 			"copyrightNotice": "All Rights Reserved.",
 			"copyrightYear": "2022",
@@ -120,7 +122,7 @@
 			"caption": "County Electric Logo",
 			"url": "https://uploads-ssl.webflow.com/622fa7e7f563138da06751e0/6233a80626ab4da96a219dd2_County%20Electric.svg",
 			"contentUrl": "https://uploads-ssl.webflow.com/622fa7e7f563138da06751e0/6233a80626ab4da96a219dd2_County%20Electric.svg"
-		},
+		}
 	]
 }
 </script>
