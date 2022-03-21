@@ -11,9 +11,7 @@
 			"legalName": "County Electric Construction Inc.",
 			"brand": {
 				"@type": "Brand",
-				"@id": "https://www.countyelectric.org/#brand",
-				"name": "County Electric",
-				"url": "https://www.countyelectric.org"
+				"@id": "https://www.countyelectric.org/#brand"
 			},
 			"contactPoint": {
 				"@type": "ContactPoint",
@@ -44,11 +42,7 @@
 			},
 			"logo": {
 				"@type": "ImageObject",
-				"@id": "https://www.countyelectric.com/#logo",
-				"name": "County Electric Logo",
-				"caption": "County Electric Logo",
-				"url": "https://uploads-ssl.webflow.com/622fa7e7f563138da06751e0/6233a80626ab4da96a219dd2_County%20Electric.svg",
-				"contentUrl": "https://uploads-ssl.webflow.com/622fa7e7f563138da06751e0/6233a80626ab4da96a219dd2_County%20Electric.svg"
+				"@id": "https://www.countyelectric.com/#logo"
 			},
 			"address": {
 				"@type": "PostalAddress",
@@ -112,7 +106,21 @@
 				"name": "Labate Group",
 				"url": "https://labate.io"
 			}
-		}
+		},
+		{
+			"@type": "Brand",
+			"@id": "https://www.countyelectric.org",
+			"name": "County Electric",
+			"url": "https://www.countyelectric.org"
+		},
+		{
+			"@type": "ImageObject",
+			"@id": "https://www.countyelectric.com/#logo",
+			"name": "County Electric Logo",
+			"caption": "County Electric Logo",
+			"url": "https://uploads-ssl.webflow.com/622fa7e7f563138da06751e0/6233a80626ab4da96a219dd2_County%20Electric.svg",
+			"contentUrl": "https://uploads-ssl.webflow.com/622fa7e7f563138da06751e0/6233a80626ab4da96a219dd2_County%20Electric.svg"
+		},
 	]
 }
 </script>
