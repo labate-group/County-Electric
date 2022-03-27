@@ -119,7 +119,7 @@
 		},
 		{
 			"@type": "Brand",
-			"@id": "https://www.countyelectric.org",
+			"@id": "https://www.countyelectric.org/brand",
 			"name": "County Electric",
 			"url": "https://www.countyelectric.org"
 		}
