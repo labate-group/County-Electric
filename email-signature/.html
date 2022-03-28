@@ -2,17 +2,19 @@
 	<tbody>
 		<tr>
 			<td style="vertical-align: middle; width: 428px;">
-				<p style="margin: 0px; font-size: 14px; color: #3176b5; font-family: 'Montserrat','Monospace','Helvetica Neue',Helvetica,Arial,'sans-serif';">Michael&nbsp;A.&nbsp;Cortina</a></p>
-				<span style="color: #7b7d9d; font-style: italic; font-family: 'Montserrat','Monospace','Helvetica Neue',Helvetica,Arial,'sans-serif'; font-size: 14px;">Vice President<br />
-				<a style="color: #3176b5" href="tel:203-414-7305">203-414-7305</a><br>&nbsp;</span>
-				<p style="margin: 0px; font-size: 14px; color: #3176b5; font-family: 'Montserrat','Monospace','Helvetica Neue',Helvetica,Arial,'sans-serif';">County Electric Construction Inc.</p>
-				<p style="color: #7b7d9d; margin: 0px; font-size: 14px; line-height: 18px; font-family: 'Montserrat','Monospace','Helvetica Neue',Helvetica,Arial,'sans-serif'; font-style: italic;">Residential, Commerical & Industrial Since 1963<br>
-				<a style="color: #3176b5" href="tel:203-367-7500">203-367-7500</a><br><a color: #3c5eab; style="color: #3176b5" href="https://www.countyelectric.org">www.countyelectric.org</a><br>102 Central Avenue, Bridgeport, CT 06607</p><br>
+				<p style="margin: 0px; font-size: 14px; color: #{{email_signature_primary_color.value}}; font-family: 'Montserrat','Monospace','Helvetica Neue',Helvetica,Arial,'sans-serif';">{{email_signature_name.value}}</a></p>
+				<span style="color: #{{email_signature_secondary_color.value}}<br />
+				<a style="color: #{{email_signature_primary_color.value}}" href="tel:{{email_signature_phone.value}}">{{email_signature_phone.value}}</a><br>
+                		<a style="color: #{{email_signature_primary_color.value}}" href="mailto:{{email_signature_email.value}}">{{email_signature_email.value}}</a><br>
+                &nbsp;</span>
+				<p style="margin: 0px; font-size: 14px; color: #{{email_signature_primary_color.value}}; font-family: 'Montserrat','Monospace','Helvetica Neue',Helvetica,Arial,'sans-serif';">{{email_signature_company.value}}</p>
+				<p style="color: #{{email_signature_secondary_color.value}}; margin: 0px; font-size: 14px; line-height: 18px; font-family: 'Montserrat','Monospace','Helvetica Neue',Helvetica,Arial,'sans-serif'; font-style: italic;">{{email_signature_company_slogan.value}}<br>
+				<a style="color: #{{email_signature_primary_color.value}}" href="tel:{{email_signature_company_phone.value}}">{{email_signature_company_phone.value}}</a><br><a color: #{{email_signature_primary_color.value}}; style="color: #{{email_signature_primary_color.value}}" href="{{email_signature_company_website_url.value}}">{{email_signature_company_website_url.value}}</a><br><a title="{{email_signature_company.value}}" href="https://www.google.com/search?q={{email_signature_name.value}} {{email_signature_company_address.value}}">{{email_signature_company_address.value}}</p><br>
 			</td>
 		</tr>
 		<tr>
-			<td style="vertical-align: top;">
-				<a title="County Electric" href="https://www.countyelectric.org/" target="_blank" rel="noopener"><img style="max-width: 250px; display: inline-block;" src="https://uploads-ssl.webflow.com/622fa7e7f563138da06751e0/622fab631b98be9ffde8fbae_0.png" /></a>
+			<td>
+				<img style="max-width: 250px; display: inline-block;" src="{{email_signature_company_logo_url.value}}" /></a>
 			</td>
 		</tr>
 	</tbody>
