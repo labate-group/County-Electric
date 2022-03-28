@@ -1,4 +1,3 @@
-<!-- Custom Schema Markup by the Labate Group - https://labate.io -->
 <script defer type="application/ld+json">
 {
 	"@context": "https://schema.org",
@@ -17,13 +16,15 @@
 			"url": "https://www.countyelectric.org",
 			"name": "County Electric",
 			"legalName": "County Electric Construction Inc.",
+			"about": "County Eletric is a commercial, residential and industrial contracting company deliverying top-knotch electrical work.",
 			"brand": {
 				"@type": "Brand",
 				"@id": "https://www.countyelectric.org/#brand"
 			},
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "203-367-7500"
+				"telephone": "203-367-7500",
+				"email": "mike@countyelectric.org"
 			},
 			"founder": {
 				"@type": "Person",
@@ -62,6 +63,7 @@
 				"addressCountry": "USA",
 				"telephone": "203-367-7500"
 			},
+			"hasMap": "https://www.google.com/maps/place/County+Electric+Construction/@41.1690136,-73.1687615,17z/data=!3m1!4b1!4m5!3m4!1s0x89e80dc2510114c9:0x772740b806b2ee6a!8m2!3d41.1689708!4d-73.1667721"
 			"geo": {
 				"@type": "GeoCoordinates",
 				"@id": "https://www.countyelectric.org/#geocoordinates",
@@ -69,11 +71,13 @@
 				"longitude": "-73.1669243"
 			},
 			"sameAs": [
-				"https://www.linkedin.com/company/county-electric",
+				"https://www.google.com/search?q=County+Electric+Construction+in+Bridgeport+CT",
 				"https://www.facebook.com/county.electric.construction",
-				"https://www.instagram.com/county.electric"
-			],
-			"hasMap": "https://www.google.com/maps/place/County+Electric+Construction/@41.1690136,-73.1687615,17z/data=!3m1!4b1!4m5!3m4!1s0x89e80dc2510114c9:0x772740b806b2ee6a!8m2!3d41.1689708!4d-73.1667721"
+				"https://www.instagram.com/county.electric",
+				"https://www.linkedin.com/company/county-electric",
+				"https://web.brbc.org/Real-Estate-Construction/County-Electric-Construction-Inc-5889",
+				"https://www.bbb.org/us/ct/bridgeport/profile/electrical-contractors/county-electric-construction-inc-0111-17003592"
+			]
 		},
 		{
 			"@type": "WebSite",
@@ -126,4 +130,3 @@
 	]
 }
 </script>
-<!-- / Custom Schema Markup by the Labate Group - https://labate.io -->
