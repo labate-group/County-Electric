@@ -1,0 +1,132 @@
+<script defer type="application/ld+json">
+{
+	"@context": "https://schema.org",
+	"@graph": [
+		{
+			"@type": "ImageObject",
+			"@id": "https://www.countyelectric.com/#logo",
+			"name": "County Electric Logo",
+			"caption": "County Electric Logo",
+			"url": "https://uploads-ssl.webflow.com/622fa7e7f563138da06751e0/6233a80626ab4da96a219dd2_County%20Electric.svg",
+			"contentUrl": "https://uploads-ssl.webflow.com/622fa7e7f563138da06751e0/6233a80626ab4da96a219dd2_County%20Electric.svg"
+		},
+		{
+			"@type": "HomeAndConstructionBusiness",
+			"@id": "https://www.countyelectric.org/#HomeAndConstructionBusiness",
+			"url": "https://www.countyelectric.org",
+			"name": "County Electric",
+			"legalName": "County Electric Construction Inc.",
+			"about": "County Eletric is a commercial, residential and industrial contracting company deliverying top-knotch electrical work.",
+			"brand": {
+				"@type": "Brand",
+				"@id": "https://www.countyelectric.org/#brand"
+			},
+			"contactPoint": {
+				"@type": "ContactPoint",
+				"telephone": "203-367-7500",
+				"email": "mike@countyelectric.org"
+			},
+			"founder": {
+				"@type": "Person",
+				"name": "Albert Cortina Sr.",
+				"description": "On March 21st 2015 County Electric lost it’s founder Albert Cortina Sr. It was with his determination and entrepreneurial spirit he started County Electric Construction Inc. in 1963 and after 52 years of devoting his life to hard work, he built the company to what it is today. He was very proud of his family and was happy to have the fruits of his labor lovingly passed down to the second generation of owners, Al Jr. and Michael Cortina. Over the years he developed many relationships and contacts and was well-respected in his field. He was also a member of the Fairfield County Electrical Association. He will be missed by all who knew him."
+			},
+			"foundingDate": "1963",
+			"knowsLanguage": "English",
+			"memberOf": {
+				"@type": "Organization",
+				"@id": "https://brbc.org/#organiztion",
+				"url": "https://brbc.org/",
+				"name": "Bridgeport Regional Business Council"
+			},
+			"hasOfferCatalog": {
+				"@type": "OfferCatalog",
+				"@id": "https://www.countyelectric.org/services/#offercatalog",
+				"url": "https://www.countyelectric.org/services"
+			},
+			"numberOfEmployees": "30",
+			"image": {
+				"@type": "ImageObject",
+				"@id": "https://www.countyelectric.org/#logo"
+			},
+			"logo": {
+				"@type": "ImageObject",
+				"@id": "https://www.countyelectric.com/#logo"
+			},
+			"address": {
+				"@type": "PostalAddress",
+				"@id": "https://www.countyelectric.org/#postaladdress",
+				"streetAddress": "102 Central Ave",
+				"addressLocality": "Bridgeport",
+				"addressRegion": "CT",
+				"postalCode": "06607",
+				"addressCountry": "USA",
+				"telephone": "203-367-7500"
+			},
+			"hasMap": "https://www.google.com/maps/place/County+Electric+Construction/@41.1690136,-73.1687615,17z/data=!3m1!4b1!4m5!3m4!1s0x89e80dc2510114c9:0x772740b806b2ee6a!8m2!3d41.1689708!4d-73.1667721"
+			"geo": {
+				"@type": "GeoCoordinates",
+				"@id": "https://www.countyelectric.org/#geocoordinates",
+				"latitude": "41.1689262",
+				"longitude": "-73.1669243"
+			},
+			"sameAs": [
+				"https://www.google.com/search?q=County+Electric+Construction+in+Bridgeport+CT",
+				"https://www.facebook.com/county.electric.construction",
+				"https://www.instagram.com/county.electric",
+				"https://www.linkedin.com/company/county-electric",
+				"https://web.brbc.org/Real-Estate-Construction/County-Electric-Construction-Inc-5889",
+				"https://www.bbb.org/us/ct/bridgeport/profile/electrical-contractors/county-electric-construction-inc-0111-17003592"
+			]
+		},
+		{
+			"@type": "WebSite",
+			"@id": "https://www.countyelectric.org/#website",
+			"name": "County Electric | Commerical Construction Company - Bridgeport, CT",
+			"url": "https://www.countyelectric.org",
+			"image": {
+				"@type": "ImageObject",
+				"@id": "https://www.countyelectric.com/#logo"
+			},
+			"hasPart": [
+				{
+					"@id": "https://www.countyelectric.org/#webpage"
+				},
+				{
+					"@id": "https://www.countyelectric.org/about/#aboutpage"
+				},
+				{
+					"@id": "https://www.countyelectric.org/team/#webpage"
+				},
+				{
+					"@id": "https://www.countyelectric.org/services/#webpage"
+				},
+				{
+					"@id": "https://www.countyelectric.org/portfolio/#webpage"
+				},
+				{
+					"@id": "https://www.countyelectric.org/testimonials/#webpage"
+				},
+				{
+					"@id": "https://www.countyelectric.org/contact/#contactpage"
+				}
+			],
+			"copyrightHolder": "County Electric Construction Inc.",
+			"copyrightNotice": "All Rights Reserved.",
+			"copyrightYear": "2022",
+			"author": {
+				"@type": "Brand",
+				"@id": "https://labate.io/#brand",
+				"name": "Labate Group",
+				"url": "https://labate.io"
+			}
+		},
+		{
+			"@type": "Brand",
+			"@id": "https://www.countyelectric.org/brand",
+			"name": "County Electric",
+			"url": "https://www.countyelectric.org"
+		}
+	]
+}
+</script>
