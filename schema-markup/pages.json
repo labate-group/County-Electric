@@ -1,0 +1,15 @@
+                {
+                        "@type": "WebPage",
+                        "@id": "https://www.countyelectric/{{SLUG}}/#webpage",
+                        "url": "https://www.countyelectric/{{SLUG}}",
+                        "name": "{{WEBPAGE-NAME}}",
+                        "isPartOf": [
+                                {
+                                        "@type": "WebSite",
+                                        "@id": "https://www.countyelectric.org/#website"
+                                }
+                        ]
+                }
+        ]
+}
+</script>
