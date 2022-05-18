@@ -1,8 +1,8 @@
                 {
-                        "@type": [--->"WebPage", "AboutPage", "ContactPage"<---]
-                        "@id": "https://www.countyelectric/{{SLUG}}/--->#webpage/#aboutpage/#contactpage<---",
+                        "@type": "WebPage",
+                        "@id": "https://www.countyelectric/{{SLUG}}/#webpage",
                         "url": "https://www.countyelectric/{{SLUG}}",
-                        "name": "{{WEBPAGE-NAME}}",
+                        "name": "{{NAME}}",
                         "isPartOf": [
                                 {
                                         "@type": "WebSite",
