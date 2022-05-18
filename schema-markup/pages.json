@@ -1,12 +1,12 @@
                 {
                         "@type": "WebPage",
-                        "@id": "https://www.countyelectric/{{SLUG}}/#webpage",
-                        "url": "https://www.countyelectric/{{SLUG}}",
+                        "@id": "https://www.county-electric.com/{{SLUG}}/#webpage",
+                        "url": "https://www.county-electric.com/{{SLUG}}",
                         "name": "{{NAME}}",
                         "isPartOf": [
                                 {
                                         "@type": "WebSite",
-                                        "@id": "https://www.countyelectric.org/#website"
+                                        "@id": "https://www.county-electric.com/#website"
                                 }
                         ]
                 }
